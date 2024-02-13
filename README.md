@@ -2,8 +2,6 @@
 
 I'm an IT student at Monash University and an aspiring software developer.
 
-I use GitHub a lot for working on university assignments and my own private projects, hence all the commits in private repos you may see.
-
 ### My projects here on GitHub:
 
 Console Applications 🖥️
